@@ -1,0 +1,32 @@
+En un post anterior te contamos sobre los requisitos académicos y de experiencia laboral para participar en este programa. Puntualmente, para poder postularte al IT Bootcamp de Data & Analytics es clave que cuentes con conocimientos específicos de:
+
+Estadística | Muestra vs. población. Media, mediana, moda, desviación estándar, normal. Entender qué es un percentil y un quantil. Poder leer e interpretar un histograma. Comprender conceptos de variable aleatoria y probabilidad.
+https://www.youtube.com/playlist?list=PLNtn5nZ-EhtJ8pKX_4q1NfolGpmv-fQwS
+
+Data | SQL básico (agrupaciones, uso de where, having, conocer los distintos tipos de joins). Conocer el concepto de Análisis Exploratorio de Datos (EDA).
+https://www.youtube.com/playlist?list=PLU8oAlHdN5Bmx-LChV4K3MbHrpZKefNwn
+
+Soft Development | Debugging básico sobre un código (sin importar la herramienta utilizada).
+https://www.youtube.com/watch?v=xAG1FBEIf3g
+https://www.youtube.com/watch?v=VJN8R_my7WY
+
+
+luego de estudiar eso hacer esto y proyectos, metele viejo dale man
+
+https://www.youtube.com/watch?v=vnBjUEKl4Vw
+https://www.youtube.com/watch?v=vnBjUEKl4Vw
+
+
+
+
+
+
+
+
+
+Los requisitos académicos se basan en ser estudiante avanzado/a o graduado/a de tecnicaturas o carreras de grado tales como Ingeniería en Informática, Ciencias de la Computación o carreras afines. Sin embargo, las personas autodidactas que finalizaron cursos por su cuenta y demuestran los conocimientos mínimos para aplicar también pueden ser consideradas y son bienvenidas a postularse.
+Manejar conocimientos básicos y teóricos de programación y estructura de datos.
+Poseer conocimientos de lenguajes de programación acordes al Bootcamp que te interesa.
+Residir en el país de la vacante a la que te postulas.
+
+Poseer conocimientos básicos de bases de datos, SQL, Python, estadística, algoritmos y análisis de datos.
