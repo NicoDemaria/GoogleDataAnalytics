@@ -1,0 +1,36 @@
+Default Feedback: ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! Algunos puntos en común en estos ejemplos incluyen los siguientes:
+
+Los paneles son visualizaciones: la visualización de datos puede ser muy útil para comprender y demostrar lo que realmente significan los datos.
+
+Los paneles identifican métricas: las métricas relevantes pueden ayudar a los analistas a evaluar el rendimiento de la empresa.
+
+Algunas diferencias incluyen el plazo descrito en cada panel. El panel operativo tiene un marco temporal de días y semanas, mientras que el panel estratégico muestra todo el año. El panel analítico omite un período de tiempo específico. En cambio, identifica y realiza un seguimiento de los distintos KPI que se pueden utilizar para evaluar los objetivos estratégicos y operativos.
+
+
+¡Gracias por tu respuesta! Los paneles pueden ayudar a las empresas a realizar muchas tareas útiles, por ejemplo:
+
+Realizar un seguimiento del desempeño histórico y actual.
+
+Establecer objetivos tanto a largo como a corto plazo.
+
+Definir indicadores o métricas clave de rendimiento.
+
+Identificar posibles problemas o puntos de ineficiencia.
+
+Si bien casi todas las empresas se pueden beneficiar de alguna manera del uso de un panel, es probable que las empresas más grandes y aquellas con una gama más amplia de productos o servicios se beneficien aún más. Las empresas que operan en mercados volátiles o que cambian rápidamente, como el marketing, las ventas y la tecnología, también tienden a obtener información a gran velocidad y a tomar decisiones basadas en datos.
+
+Pregunta 3: respuesta de texto reflexivo
+
+Por último, piensa en la persona con la que mantuviste la conversación sobre datos en la última actividad. Según las notas que tomaste durante esa conversación:
+
+¿Qué tipos de paneles recomendarías para las necesidades de datos de tu interlocutor?
+
+¿De qué manera los paneles que recomiendas le ayudarían a alcanzar mejor sus objetivos?
+
+Luego, escribe 2 o 3 oraciones (de 40 a 60 palabras) en respuesta a cada una de estas preguntas. Escribe tu respuesta en el cuadro de texto que aparece a continuación.
+
+Default Feedback: ¡Gran trabajo al reforzar tu aprendizaje con una autorreflexión seria! En esta respuesta, deberías haber aplicado lo que has aprendido sobre los paneles hasta el momento de la conversación que mantuviste en la actividad de autorreflexión anterior.
+
+Los paneles pueden proporcionar un acceso cómodo a la información y los análisis, y son fáciles de usar en colaboración. Además, se pueden adaptar a las necesidades específicas de las empresas, como hacer un seguimiento del desempeño hacia un hito.
+
+Usando el ejemplo anterior de la heladería, el propietario de la tienda podría usar un panel operativo para hacer un seguimiento de sus ventas diarias. Mientras tanto, podrían usar un panel estratégico para decidir si tienen la capacidad suficiente para expandir su negocio.
