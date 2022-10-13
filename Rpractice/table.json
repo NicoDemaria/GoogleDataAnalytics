@@ -5,7 +5,7 @@
             "title": "Trial ID"
         },
         "humidity": {
-            "type": "text",
+            "type": "number",
             "title": "Initial Moisture"
         }
     }
