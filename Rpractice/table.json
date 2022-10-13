@@ -1,0 +1,12 @@
+{
+    "tableFormater": {
+        "trial": {
+            "type": "text",
+            "title": "Trial ID"
+        },
+        "humidity": {
+            "type": "text",
+            "title": "Initial Moisture"
+        }
+    }
+}
